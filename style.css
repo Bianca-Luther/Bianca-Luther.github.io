@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #F2F2F2;
+    background-color: #63524E;
 }
 
 .resume-contents {
@@ -43,7 +43,7 @@ body {
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 3px solid #BFB4AE;
+    border: 5px solid #BFB4AE;
 }
 
 .name {
@@ -144,14 +144,14 @@ body {
 
 
 .right-title {
-    color: #F2F2F2;
+    color: #A3867F;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
     font-weight: bold;
     display: flex;
     align-items: center;
-    padding-bottom: 1rem;
+    padding: 2rem 0;
     position: relative;
 }
 
@@ -181,7 +181,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #ECE7E2;
+    color: #b69377;
     padding-bottom: .4rem;
 }
 
@@ -200,7 +200,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #ECE7E2;
+    color: #b69377;
     padding-bottom: .4rem;
 }
 
